@@ -9,5 +9,6 @@ Check out this layout [here](https://agcdtmr.github.io/100hr-project-layout3/)
 - To use float to divide the 'invisible' boxes
 - How I can play with media queries and colors
 - Division of navbar, sections, and footer
+- How I can use hover on styling
 
 Curious about my other repos? See [here](https://github.com/agcdtmr?tab=repositories)
